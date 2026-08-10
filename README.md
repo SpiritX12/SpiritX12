@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Anwar 👋
 
-<!--
-**SpiritX12/SpiritX12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Computer Science graduate from UiTM Jasin, and a full-stack &
+systems developer who works across software, mobile, AI, and networking.
 
-Here are some ideas to get you started:
+**What I work on**
+- 🖥️ Full-stack & mobile app development
+- 🌐 Website development
+- 🤖 AI model training & annotation
+- 🔧 Network automation & IT support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+`Python` `PHP` `MySQL` `Flutter` `AI-assisted (vibe) coding`
+`Switch Configuration` `VLAN / Trunk Config` `Network Troubleshooting`
+
+**Currently**
+🟢 Open to work — Software, Mobile & AI Development
+
+📫 Reach me at ah.anwarhadif@gmail.com
+🌐 Portfolio: anwarhadif-portfolio.com
